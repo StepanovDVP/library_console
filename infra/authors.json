@@ -1,0 +1,15 @@
+{
+    "current_id": 1,
+    "elements": {
+        "1": {
+            "id": 1,
+            "full_name": "Author Test",
+            "books": [
+                1
+            ]
+        }
+    },
+    "index_by_title": {
+        "Author Test": 1
+    }
+}

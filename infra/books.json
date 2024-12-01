@@ -1,0 +1,24 @@
+{
+    "current_id": 2,
+    "elements": {
+        "1": {
+            "id": 1,
+            "title": "Book Test",
+            "author": [
+                1
+            ],
+            "year": "2000",
+            "status": "в наличии"
+        }
+    },
+    "index_by_title": {
+        "Book Test": [
+            1
+        ]
+    },
+    "index_by_year": {
+        "2000": [
+            1
+        ]
+    }
+}
